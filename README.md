@@ -1,0 +1,2 @@
+# premium-pochoir-001-pochoir-multi-layer-stencil-pl
+Tired of juggling overlapping deadlines and priorities without a clear visual structure? The Pochoir Multi-Layer Stencil Planner brings the precision of multi-layer stencil art to your Notion workspace, letting you see each project layer distinctly.  This template solves the chaos of managing multiple concurrent projects by providing a layered visu
